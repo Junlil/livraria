@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910355187271",
+    "project_id": "appcompras-d5a71",
+    "storage_bucket": "appcompras-d5a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910355187271:android:f5daec43413f8fa03b9362",
+        "android_client_info": {
+          "package_name": "com.example.compras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910355187271-4n3f6l6r1alvhkmlcs1j8rjujjla25jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compras",
+            "certificate_hash": "0fd8e9b19c628c09dacb85c5887a97e5421523fa"
+          }
+        },
+        {
+          "client_id": "910355187271-a8v32c11rngjfket7plks4lt6nbacaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ651llo8C2aI6CG250REbYIPgxe1-a9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910355187271-a8v32c11rngjfket7plks4lt6nbacaeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
